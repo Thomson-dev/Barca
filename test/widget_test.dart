@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:barca/app.dart';
-import 'package:barca/core/di/shared_preferences_provider.dart';
+import 'package:barca/services/shared_preferences_service.dart';
 
 void main() {
   testWidgets('App boots and shows the home placeholder', (tester) async {

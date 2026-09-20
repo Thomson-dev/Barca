@@ -8,6 +8,10 @@
 		<string>$(DEVELOPMENT_LANGUAGE)</string>
 		<key>CFBundleDisplayName</key>
 		<string>Barca</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Choose photos and videos to include in your posts.</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Take photos to include in your posts.</string>
 		<key>CFBundleExecutable</key>
 		<string>$(EXECUTABLE_NAME)</string>
 		<key>CFBundleIdentifier</key>
